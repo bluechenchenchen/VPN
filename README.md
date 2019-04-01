@@ -2,7 +2,7 @@
 
 ## 注册地址 (最好是国内的邮箱,我用的是QQ邮箱)
 
-[注册地址](https://www.vultr.com/)
+[注册地址](https://www.vultr.com/?ref=7999972)
 
 ## 安装Shadowsocks 的命令
 
