@@ -1,5 +1,3 @@
-# 基于ubuntu
-
 ## 注册地址 (最好是国内的邮箱,我用的是QQ邮箱)
 
 [注册地址](https://www.vultr.com/?ref=7999972)
@@ -39,3 +37,6 @@ wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
 [安卓版本下载链接](https://github.com/shadowsocks/shadowsocks-android/releases)
 
 [iOS 版本下载链接(使用的是 Potatso Lite)](https://itunes.apple.com/app/id1239860606?mt=8)
+
+国内应用商店下载不了Potatso Lite，可以通过切换iCloud账号的地区（比如美国）来达到目的。
+推荐新注册一个iCloud账号，地区直接选美国，其中有一堆烦人的必填支付方式信息，有一个小窍门，先退出应用商店，然后直接点击购买应用，会提示登录，这个时候登录后会叫你填写支付方式，支付方式下面有一个none选项，选none。至于其他地址什么的，可以网上搜一个美国地址生成器。
