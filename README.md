@@ -30,7 +30,7 @@ wget --no-check-certificate https://github.com/teddysun/across/raw/master/bbr.sh
 
 ## shadowsocks 客户端下载地址
 
-[Mac 版本下载链接](https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.0.10/Shadowsocks-4.0.10.zip "Mac 版本下载链接")
+[Mac 版本下载链接](https://github.com/shadowsocks/ShadowsocksX-NG/releases/ "Mac 版本下载链接")
 
 [windows 版本下载链接](https://github.com/shadowsocks/shadowsocks-windows/releases/download/4.0.10/Shadowsocks-4.0.10.zip "windows 版本下载链接")
 
